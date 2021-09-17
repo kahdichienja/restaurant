@@ -15,9 +15,9 @@ app.use(bodyParser.json({
 }))
 
 
-// app.use('/v1', routes)
+app.use('/v1', routes)
 
 app.server.listen(config.port)
-console.log(`Server started onf port ${app.server.address().port}`);
+console.log(`Server started on port ${app.server.address().port}`);
 
 export default app
