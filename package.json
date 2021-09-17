@@ -1,0 +1,19 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "\"simple REST api for my restaurant\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahdichienja/restaurant.git"
+  },
+  "author": "kahdchienja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kahdichienja/restaurant/issues"
+  },
+  "homepage": "https://github.com/kahdichienja/restaurant#readme"
+}
